@@ -38,7 +38,7 @@ All active filters use OPA333 op-amps for low offset and low noise.
 
 - Low-pass Sallen–Key filter  
   - Cutoff frequency: 450 Hz
-  - 5x gain
+  - Gain: 5×
   - Limits high-frequency noise and out-of-band content
 
 ## Analog-to-Digital Conversion
