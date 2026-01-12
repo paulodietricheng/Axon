@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TP4056")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_TP4056/KiCADv6/2025-11-28_13-19-54.kicad_sym")(options "")(descr ""))
+  (lib (name "FS8205")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_FS8205A/KiCADv6/2025-11-28_14-34-12.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX660")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_MAX660M/KiCADv6/2025-11-30_01-58-23.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS131M02")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_ADS131M02IPWR/KiCADv6/2025-12-30_10-41-07.kicad_sym")(options "")(descr ""))
+  (lib (name "ARM-JTAG-SWD")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ARM-JTAG-SWD/ARM-JTAG-SWD.kicad_sym")(options "")(descr ""))
+  (lib (name "MF-MSMF050-2")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/MF-MSMF050-2/MF-MSMF050-2.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A2033PDBVR")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_TPS7A2033PDBVR/KiCADv6/2025-12-29_12-49-33.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS60403DBVR")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/TPS60403DBVR/TPS60403DBVR.kicad_sym")(options "")(descr ""))
+)

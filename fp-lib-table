@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAX660")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_MAX660M/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ESOP")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/TP4056-42-ESOP8")(options "")(descr ""))
+  (lib (name "ADS131M02")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_ADS131M02IPWR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPS7A")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_TPS7A2033PDBVR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "MF-MSM")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ul_MF-MSMF050-2/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ARM-JTAG-SWD")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/ARM-JTAG-SWD")(options "")(descr ""))
+  (lib (name "TPS604")(type "KiCad")(uri "C:/Users/paulo/OneDrive/Documentos/KiCad/AXON/Libraries/TPS60403DBVR")(options "")(descr ""))
+)
