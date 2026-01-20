@@ -8,12 +8,12 @@ The project emphasizes signal integrity, deterministic signal paths, and hardwar
 Axon implements a linear signal-processing pipeline from electrodes to digital processing:
 
 Electrodes  
-→ Input Protection  
-→ Instrumentation Amplifier  
-→ Active Band-Pass Filtering  
-→ Delta-Sigma ADC  
-→ STM32 (SPI)  
-→ Actuation Outputs
+- Input Protection  
+- Instrumentation Amplifier  
+- Active Band-Pass Filtering  
+- Delta-Sigma ADC  
+- STM32 (SPI)  
+- Actuation Outputs
 
 ## Analog Front End
 
