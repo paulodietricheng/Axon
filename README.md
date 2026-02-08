@@ -7,7 +7,7 @@ The project emphasizes signal integrity, deterministic signal paths, and hardwar
 ## System Architecture
 Axon implements a linear signal-processing pipeline from electrodes to digital processing:
 
-Electrodes  
+- Electrodes  
 - Input Protection  
 - Instrumentation Amplifier  
 - Active Band-Pass Filtering  
